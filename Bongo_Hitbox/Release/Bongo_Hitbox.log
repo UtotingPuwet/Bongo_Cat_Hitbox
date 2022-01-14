@@ -1,0 +1,11 @@
+﻿  main.cpp
+C:\Users\UtotingPuwet\Desktop\GitHub\Bongo_Hitbox\Bongo_Hitbox\main.cpp(9,23): warning C4551: function call missing argument list
+C:\Users\UtotingPuwet\Desktop\GitHub\Bongo_Hitbox\Bongo_Hitbox\main.cpp(160,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\UtotingPuwet\Desktop\GitHub\Bongo_Hitbox\Bongo_Hitbox\main.cpp(161,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\UtotingPuwet\Desktop\GitHub\Bongo_Hitbox\Bongo_Hitbox\main.cpp(162,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Generating code
+  0 of 79 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Bongo_Hitbox.vcxproj -> C:\Users\UtotingPuwet\Desktop\GitHub\Bongo_Hitbox\Release\Bongo_Hitbox.exe
